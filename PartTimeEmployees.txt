@@ -1,0 +1,2 @@
+AUBG 2 4000 LeaderSkills
+MIT 5 6000 GoodTeacher

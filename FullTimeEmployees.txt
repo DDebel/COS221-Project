@@ -1,0 +1,2 @@
+NBU 10 7000 None
+AUBG 12 8000 BestMathProfessor2020
